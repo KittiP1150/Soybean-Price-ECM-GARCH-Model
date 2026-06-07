@@ -1,0 +1,11 @@
+# Data Ingestion & Manipulation
+pandas
+numpy
+yfinance
+
+# Time-series & Statistics &Visualization
+statsmodels
+arch
+scipy
+streamlit
+plotly
